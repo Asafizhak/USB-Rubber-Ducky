@@ -1,0 +1,24 @@
+GUI r
+DELAY 2000
+STRING iexplore http://atgbcentral.com/data/out/28/4132422-anonymous-wallpaper-hd.jpg
+ENTER
+DELAY 2000
+CONTROL s
+DELAY 1000
+STRING %userprofile%\a.jpg
+ENTER
+DELAY 200
+ALT F4
+DELAY 300
+GUI r
+DELAY 1000
+STRING mspaint %userprofile%\a.jpg --window max
+ENTER
+DELAY 600
+ALT f
+DELAY 200
+STRING b
+DELAY 200
+ALT F4
+DELAY 300
+GUI d
